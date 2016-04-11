@@ -86,7 +86,13 @@
     }
 }
 
-
+.logo {
+    float: left;
+    padding-right: 20px;
+    img {
+	height: 80px;
+    }
+}
 
 /**
  * Site footer
