@@ -14,7 +14,7 @@ General issues about this organization are managed in the [Manifesto issue track
 
 * [Built with Elm](http://builtwithelm.co/)
 
-* [Elm FAQ](https://github.com/elm-community/elm-faq)
+* [Elm FAQ](http://elm-community.github.io/elm-faq/)
 
 ## Related (but unaffiliated) sites
 
